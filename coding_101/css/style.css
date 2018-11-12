@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Roboto+Condensed:400,700|Roboto:400,700');
+body {
+  background-color: white;
+  color: black;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+h1 {
+  color: black;
+  font-family: 'Permanent Marker';
+  font-size: 170px;
+  text-transform: uppercase;
+  text-align: right justify;
+  display: inline-block;
+  width: 400px;
+}
+
+h2 {
+  text-transform: uppercase;
+  font-size: 50px;
+  text-align: left;
+  display: inline-block;
+  width: 400px;
+}
+
+p {
+  font-size: 33px;
+  text-align: center;
+}
