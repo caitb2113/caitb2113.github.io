@@ -10,7 +10,7 @@ h1 {
   font-family: 'Permanent Marker';
   font-size: 170px;
   text-transform: uppercase;
-  text-align: right justify;
+  text-align: right;
   display: inline-block;
   width: 400px;
 }
